@@ -1,5 +1,5 @@
 # DataAnalysis--GeneticAlgorithms-Pyhton
-In this Project huge amount of data (the data of taxi order information from Chengdu all the April. 2016, 30 days, more than 20K line for each day) are automatically proceeded with help of Python. After that, a optimistic distribution based on the established evaluation model and genetic algorithm realized by python. So this project contains two phases with two program file ‘classify’ and ‘GA’ for each. 
+In this Project huge amount of data (the data of taxi order information from Chengdu all the April. 2016, 30 days, more than 200 thausand oder for each day) are automatically proceeded with help of Python. After that, a optimistic distribution based on the established evaluation model and genetic algorithm realized by python. So this project contains two phases with two program file ‘classify’ and ‘GA’ for each. 
 
 For the first phase, the original data(for example ‘1.xlsx’ ) contains three columns with start place, end place, during time of each order. In ‘eternal.xlsx ’ contain coordinates of distribution target(row 1-13) and distribution center(row 14 - 17). With program ’classify’, a new file ’1haupt.xlsx’ is created. In this result file, each sheet contains the selection results and their average during time. In the final sheet are all the time result present.
 
